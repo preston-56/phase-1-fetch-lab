@@ -1,4 +1,4 @@
-# Fetch Lab
+## Fetch Lab
 
 ## Learning Goals
 
